@@ -528,8 +528,6 @@ int main()
              getch();
              system("CLS");
          }
-
-         
      } while (menu!="q"&&menu!="Q");
  cout<<"game over!!";   
   
